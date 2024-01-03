@@ -4,7 +4,7 @@
 # In[1]:
 
 
-#bank
+#encapsulation
 class bank:
     def __init__(self):
         self.name='abc'
